@@ -3,6 +3,10 @@
 ChatGPT快捷指令是一个让用户能够与人工智能ChatGPT进行交互的iOS快捷指令。
 免费开源，任何人都可以使用它，如果key过期了，请及时联系我们。
 
+## iCloud链接
+
+https://www.icloud.com/shortcuts/7ead98c5c9854c43b8c62a099bea64c9
+
 ## 简介
 
 ChatGPT是一款AI聊天大模型，旨在提供类似人类对话的语音和文字。 使用ChatGPT的快捷指令，您可以：
