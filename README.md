@@ -5,7 +5,7 @@ ChatGPT快捷指令是一个让用户能够与人工智能ChatGPT进行交互的
 
 ## iCloud链接
 
-https://www.icloud.com/shortcuts/d7f46f4725a1452ea602a45e3288d17a
+https://www.icloud.com/shortcuts/51492b529f074a9ea96f645276f6e657
 
 ## 简介
 
